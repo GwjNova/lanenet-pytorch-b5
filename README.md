@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ```
 我这里使用的cuda，所以pytorch需要单独安装相应的版本的，而不能使用requirements.txt。需要去官网安装，地址：[PyTorch](https://pytorch.org/)
 
-![pytorch](data\source_image\pytorch.png)
+![pytorch](./data/source_image/pytorch.png)
 
 
 ## 生成用于训练和测试的Tusimple车道线数据集      
