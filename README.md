@@ -9,7 +9,7 @@ LaneNet是一种基于实体分割的端到端车道线检测方法，旨在解�
 
 
 ## LaneNet的网络框架    
-![NetWork](./data/source_image/network.png)
+![NetWork](/data/source_image/network.png)
 ![NetWork_Architecture](./data/source_image/network_architecture.png)
 
 ## 项目结构
